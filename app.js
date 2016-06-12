@@ -174,10 +174,8 @@ var J = {
 		y = J.width, 
 		i,j;
 		J.Player.y
-		if(J.detectColision()){
-			return true
-		}
-		else{
+		if(J.detectColision()) return true
+		
 		dy = J.Player.y + 1
 		
 		J.replacePosition(J.Player.x, dy, J.Player.x, J.Player.y,  J.Player)
@@ -187,9 +185,8 @@ var J = {
 		J.score++
 		//J.setScore(J.score);
 		J.setDifficult(J.score)
+		setTimeout(J.fallScenario, J.gameSpeed)
 		
-			setTimeout(J.fallScenario, J.gameSpeed)
-		}
 	},
 
 	setDifficult: function () {
