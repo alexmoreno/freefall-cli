@@ -1,4 +1,6 @@
-# freefall-cli
+# Freefall Adventures
 
-Awesome game about someone falling, avoiding obstacles without crashing on rocks.
+Now on `cli`, awesome game about someone falling, avoiding obstacles without crashing on rocks.
 
+## How to play
+Just `clone` this repo and `nodejs app`. That's it.
