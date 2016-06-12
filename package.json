@@ -1,0 +1,29 @@
+{
+  "name": "freefall-cli",
+  "version": "1.0.0",
+  "description": "Awesome game about avoiding rocks.",
+  "main": "app.js",
+  "dependencies": {
+    "keypress": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmoreno/freefall-cli.git"
+  },
+  "keywords": [
+    "game",
+    "fall",
+    "rocks",
+    "cli"
+  ],
+  "author": "Alex Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmoreno/freefall-cli/issues"
+  },
+  "homepage": "https://github.com/alexmoreno/freefall-cli#readme"
+}
