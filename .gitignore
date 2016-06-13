@@ -2,7 +2,7 @@
 logs
 *.log
 npm-debug.log*
-asciicinema*
+asciinema*
 # Runtime data
 pids
 *.pid
