@@ -1,7 +1,8 @@
 # freefall-cli
 
 Now on `cli`, Freefall Adventures is an awesome game about someone falling, avoiding obstacles without crashing on rocks.
-(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Freefall Adventures")
+
+![alt text](http://i.imgur.com/hUYA7Ro.gif "Freefall Adventures")
 
 
 
